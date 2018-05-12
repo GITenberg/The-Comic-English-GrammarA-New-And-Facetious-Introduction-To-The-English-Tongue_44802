@@ -1,0 +1,40 @@
+_repo: The-Comic-English-GrammarA-New-And-Facetious-Introduction-To-The-English-Tongue_44802
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leigh, Percival
+    aliases:
+    - Leigh, P. (Percival)
+    - Prendergast, Paul
+    birthdate: 1813
+    deathdate: 1889
+    gutenberg_agent_id: '33921'
+    url: http://www.gutenberg.org/2009/agents/33921
+description: ''
+gutenberg_issued: '2014-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Grammar -- Humor'
+- !lcsh 'English wit and humor'
+title: 'The Comic English Grammar: A New And Facetious Introduction To The English
+  Tongue'
+url: http://www.gutenberg.org/ebooks/44802
